@@ -1,0 +1,8 @@
+{
+  "name": "prime-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "firebase-admin": "^11.0.0",
+    "crypto": "^1.0.1"
+  }
+}
