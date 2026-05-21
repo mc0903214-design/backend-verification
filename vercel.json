@@ -1,1 +1,10 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/paystack-webhook",
+      "dest": "/api/paystack-webhook.js"
+    }
+  ]
+}
 
